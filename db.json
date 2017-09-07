@@ -1,4 +1,5 @@
-[
+{
+  "table1": [ 
   {
     "userId": 1,
     "id": 1,
@@ -6,15 +7,19 @@
     "body": "text"
   },
   {
-    "userId": 1,
+    "userId": 2,
     "id": 2,
     "title": "field2",
     "body": "test2"
   },
   {
-    "userId": 1,
+    "userId": 3,
     "id": 3,
     "title": "field3",
     "body": "test3"
   }
-]
+],
+  "profile": {
+    "name": "table1DB"
+  }
+}
